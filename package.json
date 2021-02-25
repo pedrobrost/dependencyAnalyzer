@@ -1,0 +1,13 @@
+{
+  "name": "dependency-analyzer",
+  "version": "1.0.0",
+  "main": "analyzer.js",
+  "author": "Pedro Brost <pedro.brost97@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "node-html-parser": "^3.0.2",
+    "yargs": "^16.2.0"
+  }
+}
